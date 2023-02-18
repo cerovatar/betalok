@@ -3,25 +3,25 @@
 PERINTAH INSTALASI TOOLS INI :
 
 TERMUX :
-pkg install python
+~ pkg install python
 
-pkg install python2
+~ pkg install python2
 
-pkg install python3
+~ pkg install python3
 
-pkg install git 
+~ pkg install git 
 
-git clone https://github.com/cerovatar/betalok
+~ git clone https://github.com/cerovatar/betalok
 
-cd betalok
+~ cd betalok
 
-ls
+~ ls
 
-pip install phonenumbers
+~ pip install phonenumbers
 
-ls
+~ ls
 
-python3 betalok.py
+~ python3 betalok.py
 
 CREATE BY ZinXploit
 
