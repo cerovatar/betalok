@@ -26,6 +26,8 @@ TERMUX :
 
 # CREATE BY ZinXploit
 
+*tools ini di buat di OS Parrot Linux
+
 yang mau kembangin lagi ini tools silahkan
 
 project ini saya kerjakan untuk menghilangkan kegabutan serta Latihan.
