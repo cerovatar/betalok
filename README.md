@@ -1,8 +1,9 @@
 # betalok made ZinXploit
 
-PERINTAH INSTALASI TOOLS INI :
+# PERINTAH INSTALASI TOOLS INI :
 
 TERMUX :
+
 ~ pkg install python
 
 ~ pkg install python2
@@ -23,7 +24,7 @@ TERMUX :
 
 ~ python3 betalok.py
 
-CREATE BY ZinXploit
+# CREATE BY ZinXploit
 
 yang mau kembangin lagi ini tools silahkan
 
