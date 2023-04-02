@@ -26,7 +26,7 @@ TERMUX :
 
 # CREATE BY ZinXploit
 
-*tools ini di buat di OS Parrot Linux
+*tools ini di Kerjakan di OS Parrot Linux
 
 yang mau kembangin lagi ini tools silahkan
 
